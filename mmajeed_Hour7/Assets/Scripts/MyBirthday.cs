@@ -10,6 +10,7 @@ public class MyBirthday : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+
         print("1");
         print("2");
         print("3");
