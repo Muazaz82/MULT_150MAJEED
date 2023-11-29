@@ -1,0 +1,62 @@
+1. Is the game too easy or hard?
+The game is easy for the following reasons:
+
+-> Lack of Challenge:
+   - There is not much hard levels because the character just avoids the red enemies.
+
+   - The moveable character is easy to navigate.
+
+-> Easy Patterns:
+   - Not hard to understand the rules of the game.
+
+2. What 3 changes would you do to make it easier or harder?
+To make the game harder, I would suggest the following changes:
+
+1. Introduce Enemy Types:
+   - Create new enemy types with different behaviors to increase challenge.
+
+2. Different paths:
+   -Players make smart decisions about when and how to get to the finish line.
+
+3. Different levels:
+   - Having hard, easy and medium mode will make the game much more entertaining.
+
+List three things that would give it a "wow" factor.
+To add a "wow" factor to the game, consider the following improvements:
+
+1. Special Effects:
+   - Bright lights and different time zones like night and day time will give the game a different view.
+
+2. Soundtrack:
+   - Create a soundtrack that create the game's atmosphere better.
+
+3. Unique Gameplay:
+   - Introduce a gameplay feature that sets the game apart from others in the genre.
+
+3. What parts of the game are fun? 3 items
+The following aspects of the game contribute to its fun factor:
+
+1. Engaging System:
+   - The combat system is fluid and responsive, allowing players to execute satisfying and skillful maneuvers.
+
+2. Rich Narrative:
+   - The game features a compelling storyline with well-developed characters and plot twists, keeping players invested in the game world.
+
+3. Rewarding Progression:
+   - The sense of progression is well-balanced, with meaningful rewards and upgrades that motivate players to continue playing.
+
+4. What parts of the game are tedious? 3 items
+Certain aspects of the game may feel tedious due to:
+
+1. Lengthy Backtracking:
+   - Players are required to backtrack through large portions of the game world without meaningful new content, leading to a sense of monotony.
+
+2. Excessive Grinding:
+   - The game requires extensive grinding for resources or experience points, making progression feel like a repetitive and time-consuming task.
+
+3. Unskippable Cutscenes:
+   - Long, unskippable cutscenes disrupt the pacing of the game, becoming tedious upon repeated playthroughs.
+
+
+
+
